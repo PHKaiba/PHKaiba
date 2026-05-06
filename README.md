@@ -90,7 +90,7 @@
 ---
 
 <div align="center">
-  <sub>Pedro Henrique Zonzini &nbsp;·&nbsp; São Paulo, BR</sub>
+  <sub>Pedro Henrique Dorta &nbsp;·&nbsp; São Paulo, BR</sub>
 </div>
 
 <br/>
