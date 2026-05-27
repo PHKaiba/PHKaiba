@@ -17,14 +17,10 @@
 <br/>
 
 <div align="center">
-
-```
-  Cursando Análise e Desenvolvimento de Sistemas — UNIFIA
-  Apaixonado por desenvolvimento Full Stack
-  Criando experiências web desde o primeiro console.log
-  Movido por café, curiosidade e boas ideias
-```
-
+  <p>Cursando Análise e Desenvolvimento de Sistemas — UNIFIA</p>
+  <p>Apaixonado por desenvolvimento Full Stack</p>
+  <p>Criando experiências web desde o primeiro console.log</p>
+  <p>Movido por café, curiosidade e boas ideias</p>
 </div>
 
 <br/>
@@ -54,6 +50,18 @@
 <br/>
 
 <div align="center">
+
+[🌌 Sistema Solar](https://github.com/PHKaiba/system_solar) &nbsp;·&nbsp; [🏆 Palmeiras Site](https://github.com/PHKaiba/Palmeiras-site)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
   <img src="player.gif" alt="Now Playing" width="460"/>
 </div>
 
@@ -66,6 +74,14 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PHKaiba&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&stroke=222222)](https://git.io/streak-stats)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHKaiba&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=6)
 
 </div>
 
