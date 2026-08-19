@@ -20,7 +20,6 @@
   <p>Cursando Análise e Desenvolvimento de Sistemas — UNIFIA</p>
   <p>Apaixonado por desenvolvimento Full Stack</p>
   <p>Criando experiências web desde o primeiro console.log</p>
-  <p>Movido por café, curiosidade e boas ideias</p>
 </div>
 
 <br/>
